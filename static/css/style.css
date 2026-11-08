@@ -1,0 +1,46 @@
+body{
+        background-image: url(images/images\ \(22\)\ \(7\).jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    h1{
+        font-style: italic;
+        color:  black;
+        text-align: center;
+        font-size: 55px;
+    }
+    .nav{
+        list-style-type: none;
+        padding: 0px;
+        margin: 0px;
+        text-align: center;
+        background-color: orange;
+    }
+    .nav ul{
+        padding: 20px;
+        font-size: 20px;
+        margin: 30px;
+        display: inline-block; 
+    }
+    
+    img{
+        height: 300px;
+        width: 300px;
+        display: block;
+    }
+    h2{
+        color: orange;
+        font-size: 50px;
+    }
+    .word{
+        display: block;
+        margin-left: 70px;
+    
+    }
+    p{
+        font-size: 40px;
+        font-style: italic;
+    }
+    .mg1{
+        display: flex;
+    }
